@@ -20,10 +20,10 @@
     <!-- Header -->
     <section class="header">
 
-        <a href="home.php" class="logo">Travel.</a> 
+        <a href="index.html" class="logo">Travel.</a> 
 
         <nav class="navbar">
-            <a href="home.php">Home</a>
+            <a href="index.html">Home</a>
             <a href="about.php">About</a>
             <a href="book.php">Book</a>
             <a href="package.php">Package</a>
