@@ -1,4 +1,3 @@
-/* Esta parte está 100% funcional, mas eu não consigo hospedar esste website com banco de dados :/ */
 <?php
 
     $connection = mysqli_connect('localhost', 'root', '', 'book_db');
@@ -23,7 +22,5 @@
     }else{
         echo 'ERROR! TRY AGAIN!';
     }
-
-
 
 ?>

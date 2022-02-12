@@ -20,13 +20,13 @@
     <!-- Header -->
     <section class="header">
 
-        <a href="index.html" class="logo">Travel.</a> 
+        <a href="home.php" class="logo">Travel.</a> 
 
         <nav class="navbar">
-            <a href="index.html">Home</a>
-            <a href="about.html">About</a>
-            <a href="book.html">Book</a>
-            <a href="package.html">Package</a>
+            <a href="home.php">Home</a>
+            <a href="about.php">About</a>
+            <a href="book.php">Book</a>
+            <a href="package.php">Package</a>
         </nav>   
         
         <div id="menu-btn" class="fas fa-bars"></div>
@@ -47,7 +47,7 @@
                     <div class="content">
                         <span>Explore, Discover, Travel</span>
                         <h3>Travel arround the world</h3>
-                        <a href="package.html" class="btn">Discover More</a>
+                        <a href="package.php" class="btn">Discover More</a>
                     </div>
                 </div>
 
@@ -55,7 +55,7 @@
                     <div class="content">
                         <span>Explore, Discover, Travel</span>
                         <h3>Discover the new places</h3>
-                        <a href="package.html" class="btn">Discover More</a>
+                        <a href="package.php" class="btn">Discover More</a>
                     </div>
                 </div>
 
@@ -63,7 +63,7 @@
                     <div class="content">
                         <span>Explore, Discover, Travel</span>
                         <h3>Make your tour worthwhile</h3>
-                        <a href="package.html" class="btn">Discover More</a>
+                        <a href="package.php" class="btn">Discover More</a>
                     </div>
                 </div>               
 
@@ -127,7 +127,7 @@
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto dolore quibusdam explicabo 
                 voluptatem tenetur eius, rem, alias nam asperiores sapiente ad nemo culpa laudantium debitis 
                 dolorem minus totam, accusantium amet.</p>
-            <a href="about.html" class="btn">Read More</a>
+            <a href="about.php" class="btn">Read More</a>
         </div>
 
     </section>
@@ -148,7 +148,7 @@
                 <div class="content">
                     <h3>Adventure & Tour</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, nihil.</p>
-                    <a href="book.html" class="btn">Book Now</a>
+                    <a href="book.php" class="btn">Book Now</a>
                 </div> 
             </div>
 
@@ -160,7 +160,7 @@
                 <div class="content">
                     <h3>Adventure & Tour</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, nihil.</p>
-                    <a href="book.html" class="btn">Book Now</a>
+                    <a href="book.php" class="btn">Book Now</a>
                 </div>     
             </div>
 
@@ -172,13 +172,13 @@
                 <div class="content">
                     <h3>Adventure & Tour</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, nihil.</p>
-                    <a href="book.html" class="btn">Book Now</a>
+                    <a href="book.php" class="btn">Book Now</a>
                 </div> 
             </div>     
 
         </div>
         
-        <div class="load-more"> <a href="package.html" class="btn">Load More</a> </div>
+        <div class="load-more"> <a href="package.php" class="btn">Load More</a> </div>
 
     </section>
 
@@ -188,7 +188,7 @@
         <div class="content">
             <h3>Up To 50% Off</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat consectetur maxime dolor incidunt quam aperiam nemo magni dicta nobis quae.</p>
-            <a href="book.html" class="btn">Book Now</a>
+            <a href="book.php" class="btn">Book Now</a>
         </div>
 
     </section>
@@ -200,10 +200,10 @@
 
             <div class="box">
                 <h3>Quick Links</h3>
-                <a href="index.html"><i class="fas fa-angle-right"></i> Home</a>
-                <a href="about.html"><i class="fas fa-angle-right"></i> About</a>
-                <a href="book.html"><i class="fas fa-angle-right"></i> Book</a>
-                <a href="package.html"><i class="fas fa-angle-right"></i> Package</a>
+                <a href="home.php"><i class="fas fa-angle-right"></i> Home</a>
+                <a href="about.php"><i class="fas fa-angle-right"></i> About</a>
+                <a href="book.php"><i class="fas fa-angle-right"></i> Book</a>
+                <a href="package.php"><i class="fas fa-angle-right"></i> Package</a>
             </div>
 
             <div class="box">
